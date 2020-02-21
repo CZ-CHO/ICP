@@ -1,0 +1,7 @@
+﻿  FileIO.cpp
+f:\pcl\pcl1.8.1\include\pcl-1.8\pcl\point_traits.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  The use of BOOST_*_ENDIAN and BOOST_BYTE_ORDER is deprecated. Please include <boost/predef/other/endian.h> and use BOOST_ENDIAN_*_BYTE instead
+f:\pcl\pcl1.8.1\include\pcl-1.8\pcl\sample_consensus\ransac.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\pcl\pcl1.8.1\include\pcl-1.8\pcl\sample_consensus\sac_model_registration.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\pcl\pcl1.8.1\include\pcl-1.8\pcl\sample_consensus\sac_model_registration.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  ICPforDEM.vcxproj -> C:\Users\564146665\Desktop\ICPforDEM\x64\Debug\ICPforDEM.exe
